@@ -1,0 +1,1 @@
+mvn verify -Didempiere.target=id.sisi.forca.idempiere.p2.targetplatform -X

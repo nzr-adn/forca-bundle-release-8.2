@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: id.sisi.forca.idempiere.base
+Bundle-SymbolicName: id.sisi.forca.idempiere.base;singleton:=true
+Bundle-Version: 8.2.0.qualifier
+Fragment-Host: org.adempiere.base;bundle-version="8.2.0"
+Automatic-Module-Name: id.sisi.forca.idempiere.base
+Bundle-RequiredExecutionEnvironment: JavaSE-11

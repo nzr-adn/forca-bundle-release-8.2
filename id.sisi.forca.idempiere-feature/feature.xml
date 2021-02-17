@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="id.sisi.forca.idempiere.feature"
+      label="id.sisi.forca.idempiere.feature"
+      version="8.2.0.qualifier"
+      provider-name="SISI">
+
+   <description>
+      Feature Localization Indonesia
+   </description>
+
+   <copyright>
+      Copyright: Quality Systems &amp; Solutions
+   </copyright>
+
+   <license url="">
+      GPLv2
+   </license>
+
+   <plugin
+         id="id.sisi.forca.idempiere.base"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
+</feature>
