@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
     <feature 
-    	url="features/id.sisi.forca.idempiere.feature_8.2.0.qualifier.jar" 
+    	url="features/id.sisi.forca.idempiere-feature_8.2.0.qualifier.jar" 
     	id="id.sisi.forca.idempiere.feature" 
     	version="8.2.0.qualifier">
     	<category name="id.sisi.forca.idempiere"/>
