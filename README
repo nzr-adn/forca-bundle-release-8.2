@@ -1,0 +1,5 @@
+./director -r http://localhost/repository/forca-bundle-release-8.2-p2/ -i id.sisi.forca.idempiere.feature.feature.group -destination /home/nzr/Desktop/idempiere-server/idempiere-server-linux/
+./director -r http://localhost/repository/forca-bundle-release-8.2-p2/ -u id.sisi.forca.idempiere.feature.feature.group -destination /home/nzr/Desktop/idempiere-server/idempiere-server-linux/
+
+
+./update.sh http://localhost/repository/idempiere-p2/

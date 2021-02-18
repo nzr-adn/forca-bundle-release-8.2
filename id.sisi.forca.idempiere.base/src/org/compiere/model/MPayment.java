@@ -663,6 +663,7 @@ public class MPayment extends X_C_Payment
 	 */
 	protected boolean beforeSave (boolean newRecord)
 	{
+		System.out.println("MPayment has been ovveride by Fragment");
 		if (isComplete() && 
 			! is_ValueChanged(COLUMNNAME_Processed) &&
             (   is_ValueChanged(COLUMNNAME_C_BankAccount_ID)
