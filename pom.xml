@@ -11,6 +11,7 @@
 		<module>id.sisi.forca.idempiere-feature</module>
 		<module>id.sisi.forca.idempiere.base</module>
 		<module>id.sisi.forca.idempiere.zk_themes</module>
+		<module>id.sisi.forca.idempiere.ui.zk</module>
 		<module>id.sisi.forca.idempiere.p2.site</module>
 		<module>id.sisi.forca.idempiere.p2.targetplatform</module>
 	</modules>

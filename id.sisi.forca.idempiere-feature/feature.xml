@@ -33,4 +33,12 @@
          fragment="true"
          unpack="false"/>
 
+   <plugin
+         id="id.sisi.forca.idempiere.ui.zk"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         fragment="true"
+         unpack="false"/>
+
 </feature>

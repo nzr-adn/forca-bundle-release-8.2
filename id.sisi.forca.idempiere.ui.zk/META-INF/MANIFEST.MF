@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: id.sisi.forca.idempiere.zk_themes
-Bundle-SymbolicName: id.sisi.forca.idempiere.zk_themes;singleton:=true
+Bundle-Name: id.sisi.forca.idempiere.ui.zk
+Bundle-SymbolicName: id.sisi.forca.idempiere.ui.zk;singleton:=true
 Bundle-Version: 8.2.0.qualifier
 Fragment-Host: org.adempiere.ui.zk;bundle-version="8.2.0"
-Automatic-Module-Name: id.sisi.forca.idempiere.zk_themes
+Automatic-Module-Name: id.sisi.forca.idempiere.ui.zk
 Bundle-RequiredExecutionEnvironment: JavaSE-11
